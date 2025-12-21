@@ -1,6 +1,12 @@
 # Algorithmizing Pulbic (SocioEconomicPoliticalLegal) System & Justice
 Axioms, Algorithms & Mathematics
 ---------
+# The Goal of the software is to 
+1. Give an objective ( or Minimal Subjective) , Logical & Persuassive definition or reference of Ethics & Justice.
+2. Compare difreent Pulbic ( SocioEconomicPoliticalLegal) Systems and show their diversion of their rules from Ethics & Justice.
+3. give a punishment that leds to Justice & deterrence ( minimize crime & accident)
+---------------------------------------------
+---------------------------------------------
 Human Action/Behavior
 Ethics, Crime, Offense & Law, Punishment/Penalty/Prison & Justice
 -------
@@ -19,15 +25,16 @@ VFE : Variables or Factors or Elemets of the System
    
    ]
 3. HARM [
-     3.1 To Individual ( Psychological, [ Emotional & Mental), Physical/Sexual, Economic ( Financial/Property)]
-     3.2-To State/Government & Public Orgnization
-     3.2-To Group like Society/Culture
-     3.2-To Private or Semi Private/Public Organnization 
+     3.1 To Individual ( Psychological ( Emotional & Mental); Physical/Sexual; Economic ( Financial/Property); Temporal; Integrity]
+     3.2-To State/Government & Public Orgnization ( Brealking Rules/Laws)
+     3.3-To Group like Society/Culture ( Breaking Rules)
+     3.4-To Private or Semi Private/Public Organnization ( Breaking Contracts)
    ]
 
 ------------
 4. # justice :- Justice is concept from ethics & natural law protection of & balance between individual & collective rights white preffering individual negative rights particularly llppi ( life, liberty, property, privacy & integrity) and in the case of "unethical non-consesual & non-contractual" harm punishment must be given to convict while considering the retrubution ( as limit of punishment); incapicitation & restituion; rehabilitation ( preference to victim)
-human rights, Natural law & justice, Rule of law & Equality before law, Rehabilitative & restorative justice
+
+Human rights, Natural law & justice, Rule of law & Equality before law, Rehabilitative & restorative justice
 
 ---------
 
