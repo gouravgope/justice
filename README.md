@@ -1,5 +1,35 @@
-# justice
+# Algorithmizing Pulbic (SocioEconomicPoliticalLegal) System & Justice
+Axioms, Algorithms & Mathematics
+---------
+Human Action/Behavior
+Ethics, Crime, Offense & Law, Punishment/Penalty/Prison & Justice
+-------
+Fbp : Balanding & Prioritization function of Public System.
+fbp : Blancing & prioritization function of Private/SemiPrivate Syste.
+VFE : Variables or Factors or Elemets of the System
+-------
+1. State's Logical & Ethical Legal Limit :- Except crime, acidents & treason people should be allowed to do whatever they want by the state but it will be a matter of debate.
+2. Human Actions ( Input, Processing & Conciousness & Output/Actions) [
+                   Erhical Behavior :- A behavir that dosen't cause non-consesual or non-contractual harm to other perosn
+                   Neutal or ambiguous Behavior :-
+                   Cirme :- Crime is unethical & non-consesual & non-cotntractual harm.
+                   Accidents :- Accidents is non-intentional, non-consesual harm.
+                   Self Harm :- 
+                   Offense :- Breaking the rule or law which can be ethical, ambiguous or unethical.
+   
+   ]
+3. HARM [
+     3.1 To Individual ( Psychological, [ Emotional & Mental), Physical/Sexual, Economic ( Financial/Property)]
+     3.2-To State/Government & Public Orgnization
+     3.2-To Group like Society/Culture
+     3.2-To Private or Semi Private/Public Organnization 
+   ]
+
+------------
+4. # justice :- Justice is concept from ethics & natural law protection of & balance between individual & collective rights white preffering individual negative rights particularly llppi ( life, liberty, property, privacy & integrity) and in the case of "unethical non-consesual & non-contractual" harm punishment must be given to convict while considering the retrubution ( as limit of punishment); incapicitation & restituion; rehabilitation ( preference to victim)
 human rights, Natural law & justice, Rule of law & Equality before law, Rehabilitative & restorative justice
+
+---------
 
 Crime Categorization
 1. Terrorism & War
