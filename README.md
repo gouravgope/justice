@@ -2,9 +2,10 @@
 Axioms, Algorithms & Mathematics
 ---------
 # The Goal of the software is to 
-1. Give an objective ( or Minimal Subjective) , Logical & Persuassive definition or reference of Ethics & Justice.
-2. Compare difreent Pulbic ( SocioEconomicPoliticalLegal) Systems and show their diversion of their rules from Ethics & Justice.
-3. give a punishment that leds to Justice & deterrence ( minimize crime & accident)
+1. Give an objective ( or Minimally Subjective) , Logical & Persuassive definition or reference of Ethics & Justice.
+2. Analyze any law or rule or stament & it's diversion from ethics & justice.
+3. Compare difreent Pulbic ( SocioEconomicPoliticalLegal) Systems and show their diversion of their rules from Ethics & Justice.
+4. Give a punishment that leds to Justice & deterrence ( minimize crime & accident).
 ---------------------------------------------
 ---------------------------------------------
 Human Action/Behavior
