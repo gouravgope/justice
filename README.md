@@ -52,3 +52,17 @@ Crime Categorization
 
    
 All things related to politics, law &amp; justice.
+-------------------------
+# fbp
+balancing &amp; prioritization function
+BALANCING & PRIORITIZATION FUNCTION OF LIFE, JUSTICE & WELFARE
+
+
+
+
+
+
+
+
+
+
