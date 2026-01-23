@@ -18,6 +18,7 @@ natural human rights ( life, liberty, property & privacy) fundamental rights or 
 2. Analyze any law or rule or stament & it's diversion from ethics & justice.
 3. Compare difreent Pulbic ( SocioEconomicPoliticalLegal) Systems and show their diversion of their rules from Ethics & Justice.
 4. Give a punishment that leds to Justice & deterrence ( minimize crime & accident).
+5. A system that predicts the bias in the legal system or laws (rules)
 ---------------------------------------------
 ---------------------------------------------
 Human Action/Behavior
