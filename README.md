@@ -1,12 +1,15 @@
 # Algorithmizing Pulbic (SocioEconomicPoliticalLegal) System & Justice
 Axioms, Algorithms & Mathematics
 ---------
-##On Law, Justice & Just Law
-From an ethical or natural law perspective " law or just law is a tool & rule of non-violent or minimal violent way of conflict reslution & giving justice to people".
-Criminal Use Of Law : By getting the majority in the legisture any or in an authoritarian regime any rule can be passed & can be made understadable using 
+#On Law, Justice & Just Law
+
+1. From an ethical or natural law perspective " law or just law is a tool & rule of non-violent or minimal violent way of conflict reslution & giving justice to people".
+
+2. Criminal Use Of Law : By getting the majority in the legisture any or in an authoritarian regime any rule can be passed & can be made understadable using 
 ethical relativism, machiavellianism & legal positivism. This type of law ( rules) can be used to commit crime against people legally like in Hitlers Germany, 
-British Ruled India & Present biased laws in Every country which contracts natural rights and justice. 
-This is why we have a system of separation of powers & checks and balances where Judiciary should struct down the laws made by legislature which are contradicing the 
+British Ruled India & Present biased laws in Every country which contracts natural rights and justice.
+
+3. This is why we have a system of separation of powers & checks and balances where Judiciary should struct down the laws made by legislature which are contradicing the 
 natural human rights ( life, liberty, property & privacy) fundamental rights or other constituional rights.
 
 -------
